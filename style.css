@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(166, 168, 168, 0.758);
+}
+.header{
+    background-color: rgb(39, 40, 41);
+    height: 270px;
+    width: 900px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+
+}
+.header img {
+    border-radius: 60px;
+    
+}
+.milieu{
+    background-color: aliceblue;
+    width: 900px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;  
+}
+.milieu:hover{
+    background-color:rgb(104, 103, 102);
+    
+}
+
+
